@@ -1,22 +1,21 @@
 # SpotifyAdBlocker
-SpotifyAdBlocker is a small Android application that automatically mutes when Spotify is playing an advertisement.
+SpotifyAdBlocker, Spotify bir reklamı oynatırken otomatik olarak sesi kapatan küçük bir Android uygulamasıdır.
 
-# Installation Instructions
+# Kurulum Talimatları
 1. Download the [SpotifyAdBlocker apk](https://github.com/camgaertner/SpotifyAdBlocker/raw/master/app/SpotifyAdBlocker.apk). 
-2. Install the SpotifyAdBlocker apk (You may need to enable Unknown Sources).
-3. Open your Android settings, then "Security", and enable SpotifyAdBlocker.
+2. SpotifyAdBlocker apk'yi yükleyin (Bilinmeyen Kaynakları etkinleştirmeniz gerekebilir).
+3. Android ayarlarınızı açın, ardından "Güvenlik"i açın ve SpotifyAdBlocker'ı etkinleştirin.
 
-# Setup Instructions
-1. Enable blocking on SpotifyAdBlocker and start your music in Spotify.
-2. Minimize Spotify (i.e go to your home screen or another app). The Spotify notification icon must be visible.
-3. Enjoy your music without ads. You can lock your phone as long as the Spotify notification icon was visible.
-
+# Kurulum Talimatları
+1. SpotifyAdBlocker'da engellemeyi etkinleştirin ve müziğinizi Spotify'da başlatın.
+2. Spotify'ı simge durumuna küçültün (yani ana ekranınıza veya başka bir uygulamaya gidin). Spotify bildirim simgesi görünür olmalıdır.
+3. Müziğinizin keyfini reklamlar olmadan çıkarın. Spotify bildirim simgesi göründüğü sürece telefonunuzu kilitleyebilirsiniz.
 ## Screenshots
-![Screenshots](/Screenshots/Home_Screen.png)
-![Screenshots](/Screenshots/Filters.png)
+![Screenshots](https://github.com/toprak1224/spotify-reklam-engelleyici/blob/main/SpotifyAdBlocker-master/Screenshots/High%20Resolution/Home_Screen.png)
+![Screenshots](https://github.com/toprak1224/spotify-reklam-engelleyici/blob/main/SpotifyAdBlocker-master/Screenshots/High%20Resolution/Home_Screen.png)
 
 ## License
 MIT, see LICENSE
 
-## Contributing
-If you would like to contribute a feature or fix a bug you found in the app, you can open a pull request on Github. Something I would like done is change the app into a more generic auto-muter that can instead be configured to block Spotify ads, so that the app might be placed on the Google Play Store.
+## Katkı
+Bir özelliğe katkıda bulunmak veya uygulamada bulduğunuz bir hatayı düzeltmek istiyorsanız Github'da bir çekme isteği açabilirsiniz. Yapılmasını istediğim bir şey, uygulamayı daha genel bir otomatik susturucuya dönüştürmek; bunun yerine Spotify reklamlarını engelleyecek şekilde yapılandırılabilir, böylece uygulama Google Play Store'a yerleştirilebilir.
